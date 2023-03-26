@@ -176,7 +176,7 @@ int print_rot13string(va_list types, char buffer[],
 
 
 
-/* width handler */
+/* Width handler */
 
 int handle_write_char(char c, char buffer[],
 
